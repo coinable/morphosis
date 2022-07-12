@@ -13,7 +13,8 @@ To add a new collection to Morphosis's `collections.json` please use the followi
   "image_uri": "image_url_of_the_collection"
 }
 ```
-`title` the title of the NFT collection
+`title` the title of the NFT collection.
+
 `image_uri` should be consistent, recommended to use one of the NFT pngs via link to `arweave` (see [collection.json](https://github.com/coinable/morphosis/blob/main/collections.json) for reference) or any other similar "forever" to exist hosting services. While the image can be just an image generalizing the NFT collection like a custom made 250x250 sized image of multiple NFTs or something that defines the collection. Needs to be unique and not copyrighted in any way.
 
 `key` is the collection key returned from the Metaplex payload.
