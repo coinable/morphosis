@@ -12,4 +12,7 @@ To add a new collection to Morphosis please use the following structure
 ```
 
 `image_uri` should be consistent, recommended to use one of the NFT pngs via link to `arweave` or any other similar "forever" to exist hosting services.
+
 `key` is the collection key returned from the Metaplex payload.
+
+This JSON structure will probably change in the future.
