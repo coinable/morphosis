@@ -1,5 +1,5 @@
-# morphosis
-Morphosis is a metadata resource for Coinable
+# Morphosis
+Morphosis is a metadata resource for Coinable which contains different json and metadata that are fetched for different internal processes or flows.
 
 To add a new collection to Morphosis please use the following structure
 
