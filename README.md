@@ -11,7 +11,7 @@ To add a new collection to Morphosis please use the following structure
 }
 ```
 
-`image_uri` should be consistent, recommended to use one of the NFT pngs via link to `arweave` or any other similar "forever" to exist hosting services.
+`image_uri` should be consistent, recommended to use one of the NFT pngs via link to `arweave` or any other similar "forever" to exist hosting services. While the image can be just an image generalizing the NFT collection like a custom made 250x250 sized image of multiple NFTs or something that defines the collection. Needs to be unique and not copyrighted in any way.
 
 `key` is the collection key returned from the Metaplex payload.
 
