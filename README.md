@@ -1,6 +1,8 @@
 # Morphosis
 Morphosis is a metadata resource for Coinable which contains different jsons and metadatas that are fetched for different internal processes and/or flows.
 
+
+## How to add yout NFT collection to `collections.json` for gated payments on Coinable 
 To add a new collection to Morphosis's `collections.json` please use the following structure
 
 
