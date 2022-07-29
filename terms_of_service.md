@@ -1,6 +1,6 @@
 # Terms of Service
 
-## Coinable Inc.
+**Coinable Inc.**
 
 **Effective Date: August 10th, 2022**
 
