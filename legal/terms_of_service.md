@@ -12,7 +12,7 @@ ARBITRATION NOTICE: THESE TERMS CONTAIN AN ARBITRATION CLAUSE FOR USERS IN THE U
 
 **Agreement to Terms; Privacy Policy**
 
-Please read these Terms carefully before using the Site or Services. By using or accessing the Site, Services and/or Content (defined below) in any manner, or clicking a button or checkbox to accept or agree to these Terms where that option is made available you, (i) accept and agree to these Terms and (ii) consent to the collection, use, disclosure and other handling of information as described in our Privacy Policy, available at https://coinablepay.com/privacy (the "Privacy Policy"). The Privacy Policy is incorporated herein by this reference in its entirety, and all references herein to the "Terms of Service", the "Terms" or this "Agreement", include a reference to the Privacy Policy.
+Please read these Terms carefully before using the Site or Services. By using or accessing the Site, Services and/or Content (defined below) in any manner, or clicking a button or checkbox to accept or agree to these Terms where that option is made available you, (i) accept and agree to these Terms and (ii) consent to the collection, use, disclosure and other handling of information as described in our Privacy Policy, available at https://coinablepay.com/legal/privacy-policy (the "Privacy Policy"). The Privacy Policy is incorporated herein by this reference in its entirety, and all references herein to the "Terms of Service", the "Terms" or this "Agreement", include a reference to the Privacy Policy.
 
 **Changes to Terms or Services; Third-Party Services**
 
@@ -28,6 +28,7 @@ When you use our Site and/or Services, you may also be using the services of one
 You may use the Services if you are of the age of majority in your jurisdiction of residence, or older, and are not barred from using the Services under applicable law. By using the Site or Services and agreeing to these Terms, you represent and warrant that:
 
 - You are of lawful age, and are lawfully able, to enter into contracts. If you are entering into this Agreement for an entity, such as the company you work for, you represent and warrant that you have legal authority to bind that entity to these Terms.
+
 - Neither you nor any person that owns or controls you is subject to sanctions or otherwise designated on any list of prohibited or restricted parties, including but not limited to the lists maintained by the United Nations Security Council, the U.S. Government (e.g., the Specially Designated Nationals List and Foreign Sanctions Evaders List of the U.S. Department of Treasury and the Entity List of the U.S. Department of Commerce), the European Union or its Member States, or other applicable government authority.
 
 **Registration and Your Information; Suspension/Termination of Services; Security**
