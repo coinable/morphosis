@@ -46,43 +46,78 @@ You may use the Services if you are of the age of majority in your jurisdiction 
 
   Subject to the foregoing, Coinable and its licensors exclusively own all right, title and interest in and to the Site, the Services and Content, including all associated intellectual property rights. You acknowledge that the Site, Services and Content are protected by copyright, trademark, and other laws of the United States and foreign countries. You agree not to remove, alter or obscure any copyright, trademark, service mark or other proprietary rights notices incorporated in or accompanying the Services or Content.
 
-  Rights in User Content Granted by You
+  **Rights in User Content Granted by You**
+
   You grant us a worldwide, non-exclusive, royalty-free, fully paid-up, perpetual, irrevocable, sublicensable, and transferable license to use, copy, distribute, create derivative works of, publicly display, and publicly perform your User Content, subject to the Privacy Policy.
+
   You warrant and represent that you have the right and authority to submit your User Content and that neither your User Content nor any part thereof infringes, misappropriates or otherwise violates the intellectual property rights or any other rights of any person.
+
   You acknowledge that, in certain instances, where you have removed your User Content by specifically deleting it, some of your User Content (such as posts or comments you make) may not be completely removed and copies of your User Content may continue to exist on the Services. We are not responsible or liable for the removal or deletion of (or the failure to remove or delete) any of your User Content.
-  Rights in App, Site and Services Granted by Coinable
+
+  **Rights in App, Site and Services Granted by Coinable**
+
   The App, Site and Services are proprietary to Coinable and its licensors and must not be used other than strictly in accordance with these Terms. Coinable grants to you a limited, non-exclusive, non-transferable, non-sublicensable, fully-revocable right to use the App and Site for the purposes of accessing and using the Services strictly in accordance with these Terms.
+
   You agree not to use the Site or Services in any manner or for any purpose other than as expressly permitted by this Agreement. Except as expressly authorized, you will not, and will not attempt to (i) modify, distribute, alter, tamper with, repair, or otherwise create derivative works of any Content included in the Services (except to the extent Content included in the Services is provided to you under a separate license that expressly permits the creation of derivative works), (ii) reverse engineer, disassemble, or decompile the App or Site or apply any other process or procedure to derive the source code of any software included in the App or Site , (iii) access or use the Services in a way intended to avoid incurring fees or exceeding usage limits or quotas, (iv) use scraping techniques to mine or otherwise scrape data, or (v) resell or sublicense the Services, or use the Services to provide software as a service or any cloud-based, time sharing, service bureau or other services. You will not use Our Marks unless you obtain our prior written consent. You will not misrepresent or embellish the relationship between us and you (including by expressing or implying that we sponsor, endorse, or contribute to you or your business endeavors). You will not imply any relationship or affiliation between us and you. For the purposes of these terms, "Our Marks" means any trademarks, service marks, service or trade names, logos, trade dress and other designations of source, origin, sponsorship, certification or endorsement of Coinable Technologies Inc. or its affiliates or their respective licensors.
-  Fees
+
+  ### Fees
+
   We may charge fees for some or part of the Services we make available to you. We reserve the right to change those fees at any time, in our sole and absolute discretion. We will disclose the amount of fees we will charge you for the applicable Service at the time that you access the Service.
+
   You may incur charges from third parties for use of Third-Party Services. Third party fees are not charged by Coinable and are not paid to Coinable. Under no circumstances shall Coinable incur any liability, of any kind, to you arising from or relating to fees charged to you by Third-Party Services linked to or accessed through our Site or Services.
   Although we will attempt to provide accurate fee information, any such information reflects our estimate of fees, which may vary from the fees actually paid to use the Services and interact with the Solana blockchain or any other network with which the Services are compatible.
+
   Coinable may not be held liable for, and you hereby forever release Coinable from, any losses or other liabilities arising from an inaccurate estimate of fees provided in connection with any use of the Services.
-  Acceptable Use and Enforcement Rights
-  As a condition to using the Site and/or Services, you agree not to use the Site or Services in ways that:
-  Violate, misappropriate, or infringe the rights of Coinable, our users, or others, including privacy, publicity, intellectual property, or other rights;
-  Are illegal, obscene, defamatory, threatening, intimidating, harassing, hateful or racially or ethnically offensive, or that instigate or encourage conduct that would be illegal or otherwise inappropriate, including promoting violent crimes;
-  Involve falsehoods, misrepresentations, or misleading statements, including impersonating someone;
-  Involve sending illegal or impermissible communications such as bulk messaging, auto-messaging, auto-dialing, and the like;
-  Avoid, bypass, remove, deactivate, impair, descramble or otherwise circumvent any technological measure implemented by us or any of our service providers or any other third party to protect the Services or Content;
-  Disguise your location through IP proxying or other methods;
-  Interfere with, or attempt to interfere with, the access to the Services of any user, host or network, including, without limitation, sending a virus, overloading, flooding, spamming, or mail-bombing the Services;
-  Circumvent any content-filtering techniques, security measures or access controls that Coinable employs on the Site or the Services in any manner;
-  Could interfere with, disrupt, negatively affect or inhibit other users from enjoying the Services, or that could damage, disable, overburden, or impair the functioning of the Site or Services;
-  Violate any applicable law or regulation, including, without limitation any applicable anti-money laundering and anti-terrorism financing laws and sanctions programs, including, without limitation, the Bank Secrecy Act and those enforced by the U.S. Department of Treasury's Office of Foreign Assets Controls and any other Export Control Laws;
-  Encourage or enable any other individual to do any of the foregoing.
+
+  **Acceptable Use and Enforcement Rights**
+
+  - As a condition to using the Site and/or Services, you agree not to use the Site or Services in ways that:
+
+  - Violate, misappropriate, or infringe the rights of Coinable, our users, or others, including privacy, publicity, intellectual property, or other rights;
+
+  - Are illegal, obscene, defamatory, threatening, intimidating, harassing, hateful or racially or ethnically offensive, or that instigate or encourage conduct that would be illegal or otherwise inappropriate, including promoting violent crimes;
+
+  - Involve falsehoods, misrepresentations, or misleading statements, including impersonating someone;
+
+  - Involve sending illegal or impermissible communications such as bulk messaging, auto-messaging, auto-dialing, and the like;
+
+  - Avoid, bypass, remove, deactivate, impair, descramble or otherwise circumvent any technological measure implemented by us or any of our service providers or any other third party to protect the Services or Content;
+
+  - Disguise your location through IP proxying or other methods;
+
+  - Interfere with, or attempt to interfere with, the access to the Services of any user, host or network, including, without limitation, sending a virus, overloading, flooding, spamming, or mail-bombing the Services;
+
+  - Circumvent any content-filtering techniques, security measures or access controls that Coinable employs on the Site or the Services in any manner;
+
+  - Could interfere with, disrupt, negatively affect or inhibit other users from enjoying the Services, or that could damage, disable, overburden, or impair the functioning of the Site or Services;
+
+  - Violate any applicable law or regulation, including, without limitation any applicable anti-money laundering and anti-terrorism financing laws and sanctions programs, including, without limitation, the Bank Secrecy Act and those enforced by the U.S. Department of Treasury's Office of Foreign Assets Controls and any other Export Control Laws;
+
+  - Encourage or enable any other individual to do any of the foregoing.
+
   By using the Site or Services, you further represent, warrant and covenant that:
-  Any Digital Assets you transfer via the Services have been legally obtained by, and belong to, you;
-  You will not provide any false, inaccurate or misleading information while using the Site or Services, or engage in any activity that operates to defraud Coinable, other users of the Services, or any other person or entity;
-  You will not use the Services to transmit or exchange Digital Assets that are the direct or indirect proceeds of any criminal or fraudulent activity, including, without limitation, terrorism or tax evasion;
-  Any Digital Assets you use in connection with the Services are either owned by you or you are validly authorized to carry out actions using such assets; and
+
+  - Any Digital Assets you transfer via the Services have been legally obtained by, and belong to, you;
+
+  - You will not provide any false, inaccurate or misleading information while using the Site or Services, or engage in any activity that operates to defraud Coinable, other users of the Services, or any other person or entity;
+
+  - You will not use the Services to transmit or exchange Digital Assets that are the direct or indirect proceeds of any criminal or fraudulent activity, including, without limitation, terrorism or tax evasion;
+
+  - Any Digital Assets you use in connection with the Services are either owned by you or you are validly authorized to carry out actions using such assets; and
+
   You will pay all fees necessary for interacting with the Solana blockchain, or any other network with which the Services are compatible, including "gas" costs, as well as all fees charged by us for your use of the Services.
   Although we have no obligation to monitor any User Content, we have absolute discretion to remove User Content at any time and for any reason without notice. You understand that by using the Services, you may be exposed to User Content that is offensive, indecent, or objectionable. We take no responsibility and assume no liability for any User Content, including any loss or damage to any of your User Content.
+
   You agree to comply with all applicable U.S. and non-U.S. export control and trade sanctions laws ("Export Laws"). Without limiting the foregoing, you may not download the App or use the Services if (i) you are in, under the control of, or a national or resident of Cuba, Iran, North Korea, Sudan, or Syria or any other country subject to United States embargo, UN Security Council Resolutions, HM Treasury's financial sanctions regime, or if you are on the U.S. Treasury Department's Specially Designated Nationals List or the U.S. Commerce Department's Denied Persons List, Unverified List, Entity List HM Treasury's financial sanctions regime; or (ii) you intend to supply any Services to Cuba, Iran, North Korea, Sudan or Syria or any other country subject to United States embargo or HM Treasury's financial sanctions regime (or a national or resident of one of these countries), or to a person on the Specially Designated Nationals List, Denied Persons List, Unverified List, Entity List, or HM Treasury's financial sanctions regime.
-  Third Party Services
+
+  ### Third Party Services
+
   The Site, Services and App may contain links to Third-Party Services (including, without limitation, Dapps), and may leverage or plug into such Third Party Services to enable certain features, such as the Swapper. When using a Dapp or other Third Party Services, you understand that you are at no time transferring your assets to us. We provide access to Third Party Services only as a convenience, do not have control over their content, do not warrant or endorse, and are not responsible for the availability or legitimacy of, the content, products or services on or accessible from those Third Party Services (including any related website, resources or links displayed therein). We make no warranties or representations, express or implied, about such linked Third Party Services, the third parties they are owned and operated by, the information contained on them or the suitability of their products or services. You acknowledge sole responsibility for and assume all risk arising from your use of any third-party website, applications, or resources.
+
   You may be able to link your Wallet to your accounts on third-party platforms, sites and services, to enable access to such accounts from your Wallet. In doing so, you understand and agree that all transactions made when accessing such accounts from your Wallet are subject to these Terms and to the terms of use, privacy policies, and other terms, conditions and policies imposed by the providers of such third-party sites, services and platforms.
-  Termination
+
+  ### Termination
+
   We may terminate this Agreement and/or your access to and use of the Site and Services, in our sole discretion, at any time and without notice to you. Upon any termination, discontinuation or cancellation of this Agreement, the Services or your Account, (i) all rights and/or licenses granted to you under these Terms shall immediately cease and terminate and you shall forthwith cease the use of and/or access to the App, Site, Services and Content in any way whatsoever; and (ii) notwithstanding the foregoing, the following provisions will survive: Feedback, Content and Content Rights, Content Ownership, Responsibility and Removal (except for the subsection "Rights in Content Granted by Coinable"), Termination, Warranty Disclaimers, Indemnity, Limitation of Liability, Dispute Resolution, and General Terms.
   Warranty Disclaimers
   YOU EXPRESSLY ACKNOWLEDGE AND AGREE THAT USE OF THE SITE AND THE SERVICES AND CONTENT IS AT YOUR SOLE RISK AND THAT THE ENTIRE RISK AS TO SATISFACTORY QUALITY, PERFORMANCE, ACCURACY AND EFFORT IS WITH YOU. THE APP, SITE AND SERVICES ARE PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS WITHOUT ANY REPRESENTATION OR WARRANTY, WHETHER EXPRESS, IMPLIED OR STATUTORY. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, COINABLE SPECIFICALLY DISCLAIMS ANY EXPRESS OR IMPLIED WARRANTIES OF TITLE, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND/OR NON-INFRINGEMENT. COINABLE DOES NOT MAKE ANY REPRESENTATIONS OR WARRANTIES THAT ACCESS TO THE SITE OR SERVICES OR ANY OF THE MATERIALS CONTAINED THEREIN WILL BE CONTINUOUS, UNINTERRUPTED, TIMELY, OR ERROR-FREE. COINABLE DOES NOT MAKE ANY REPRESENTATIONS OR WARRANTIES AS TO THE FUNCTIONALITY OF THE SOLANA NETWORK, OR THAT SOLANA NETWORK WILL OPERATE FREE FROM INTERRUPTIONS, DELAYS, DEFECTS AND/OR ERRORS THAT MAY DELAY, HINDER OR PREVENT THE TRANSMISSION OF TRANSACTIONS OR MESSAGES TO OR ON THE SOLANA NETWORK, OR ANY OTHER NETWORK. THE DURATION OF ANY IMPLIED WARRANTY THAT IS NOT EFFECTIVELY DISCLAIMED WILL BE LIMITED TO THE LONGER OF (I) THIRTY (30) DAYS FROM THE DATE THAT YOU FIRST USE THE APPLICABLE SERVICE AND (II) THE SHORTEST PERIOD ALLOWED UNDER APPLICABLE LAW. SOME STATES / JURISDICTIONS DO NOT ALLOW LIMITATIONS ON HOW LONG AN IMPLIED WARRANTY LASTS, SO THE ABOVE LIMITATION MAY NOT APPLY TO YOU.
