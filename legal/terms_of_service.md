@@ -28,6 +28,7 @@ Your permission to use the Services is subject to the following conditions:
 1. You must be at least eighteen years old.
 2. You may no longer use the Services if the operator tells you that you may not.
 3. You must follow Acceptable Use and Content Standards.
+
 ## Acceptable Use
 1. **You may not break the law using the Services.** If we determine that you have broken the law, we will revoke your access.
 2. Some transactions involving cryptographic assets on the Services (or other services linked to the Services) may implicate the securities or other laws of various jurisdictions. Out of an abundance of caution, we may “geoblock” the Services, or certain parts of the Services, from being accessible in certain jurisdictions.
