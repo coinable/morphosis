@@ -9,7 +9,7 @@ Other users of the Services, such as merchants, may use the Services to post con
 
 These terms include important provisions governing your use of the Services. **These provisions affect such matters as your right to use the Services, actions you are prohibited from taking with respect to the Services, disclaimers regarding liability, and your waiver of the right to bring a suit in a court of law and to a jury trial.** Before using the Services, make sure that you read and understand all of these terms and the accompanying privacy policy at https://coinablepay.com/legal/privacy-policy.
 
-Coinable, Inc., a Delaware corporation, operates the Services. It is referred to in this document as the “operator,” “we,” or “us.”
+Coinable Inc., a BVI business company, operates the Services. It is referred to in this document as the “operator,” “we,” or “us.”
 
 ## Important Terms
 These terms include a number of especially important provisions that affect your rights and responsibilities, such as the disclaimers in **Disclaimers**, limits on the operator’s legal liability to you in **Limits on Liability**, your agreement to reimburse the operator for problems caused by your misuse of the Services in **Your Responsibility**, and an agreement about how to resolve disputes in **Disputes**.
