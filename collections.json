@@ -18,6 +18,12 @@
     "size": 15
   },
   {
+    "title": "y00ts (Y00T)",
+    "key": "4mKSoDDqApmF1DqXvVTSL6tu2zixrSSNjqMxUnwvVzy2",
+    "image_uri": "https://metadata.y00ts.com/y/collection.png",
+    "size": 15
+  },
+  {
     "title": "Meerkat Millionaires CC",
     "key": "FBgXtZ1TEQtfWNtVo5bhyDjHmkDmYs7z1aiRtKUMzevB",
     "image_uri": "https://arweave.net/CmGtpeQtR4xxGs0KCJXP31LPSNRwn9Q32tw32ABpL40",
@@ -33,12 +39,6 @@
     "title": "SMB Gen2",
     "key": "SMBH3wF6baUj6JWtzYvqcKuj2XCKWDqQxzspY12xPND",
     "image_uri": "https://swpek5eflkanudn4ryibnapba6s7fh4kcumlk7oe4tln6zmbbnwq.arweave.net/lZ5FdIVagNoNvI4QFoHhB6Xyn4oVGLV9xOTW32WBC20",
-    "size": 15
-  },
-  {
-    "title": "Penthouse Panther Club",
-    "key": "6DckLPLRqWZAX4pysdGSDGpDGQctQact3yJoi4yYYo4F",
-    "image_uri": "https://arweave.net/G-39mYi7QZRh6n_dP1vmJ1Vofi6sYOprTF2qrGq13OM",
     "size": 15
   }
 ]
