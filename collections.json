@@ -12,6 +12,12 @@
     "size": 15
   },
   {
+    "title": "SMB Gen2",
+    "key": "SMBH3wF6baUj6JWtzYvqcKuj2XCKWDqQxzspY12xPND",
+    "image_uri": "https://arweave.net/lZ5FdIVagNoNvI4QFoHhB6Xyn4oVGLV9xOTW32WBC20",
+    "size": 15
+  },
+  {
     "title": "Mad Lads (MAD)",
     "key": "J1S9H3QjnRtBbbuD4HjPV6RpRhwuk4zKbxsnCHuTgh9w",
     "image_uri": "https://madlads-collection.s3.us-west-2.amazonaws.com/_collection.png",
@@ -81,12 +87,6 @@
     "title": "Pesky Penguins",
     "key": "DjdF3JdTBY9UTy47PHFXbTnhuQxdDi87SunVARBMnteY",
     "image_uri": "https://arweave.net/m5NMlJyLUTs-9Fxo5hpPbQTsyqkoS-sAwSLdjguD-yU",
-    "size": 15
-  },
-  {
-    "title": "SMB Gen2",
-    "key": "SMBH3wF6baUj6JWtzYvqcKuj2XCKWDqQxzspY12xPND",
-    "image_uri": "https://arweave.net/lZ5FdIVagNoNvI4QFoHhB6Xyn4oVGLV9xOTW32WBC20",
     "size": 15
   },
   {
